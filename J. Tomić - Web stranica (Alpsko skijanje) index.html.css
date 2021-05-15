@@ -1,0 +1,33 @@
+<html>
+<head>
+meta charset="F-8"
+<link rel="stylesheet" type="text/css" href="uređivanje/css">
+<title> ALPSKO SKIJANJE</title>
+<body background="pozadina.rel">
+	<div class="sve">
+		<div class="naslov">
+			<h1 align="left">ALPSKO SKIJANJE</h1>
+		</div>
+		<div class="tijelo">
+			<p class="link">
+				<h2 align="left">Povijest alpskog skijanja</h2>
+					<p>
+						<h3 align="left"> Možete pogledati više o <a href="Povijest alpskog skijanja.html">povijesti alpskog skijanja</a>
+					</p>
+			<p>
+				<h2 align="left">OPREMA</h2>
+				<p>
+					<h3 align="left"> ovo je oprema<a href="oprema.html"> koja se koristi za skijanje</a>
+			</p>
+			<p>
+				<h2 align="left">SKIJAŠKE DISCIPLINE</h2>
+				<p>
+					<h3 align="left"> Ovo su četiri<a href="skijaške discipline.html"> skijaške discipline</a>
+			</p>
+			</p>
+		</div>
+		<div class="zaglavlje">
+		</div>
+	</div>
+</body>
+</html> 
